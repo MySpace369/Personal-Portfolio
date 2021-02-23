@@ -17,6 +17,7 @@ body {
 color: black;
   display: flex;
   justify-content: flex-end;
+  width: 100%;
   list-style: none;
   background-color: #888C07;
 }
@@ -75,7 +76,7 @@ figcaption:hover {
   align-items: center;
   color: #F2F2F2;
   background-color: #685857;
-  height: 80vh;
+  height: 70vh;
 }
 
 .contact-links a {
