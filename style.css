@@ -62,11 +62,20 @@ p {
 figcaption {
   color: #F2F2F2;
   text-align: center;
- 
 }
 
 figcaption:hover {
   color: #D9AF8B;
+}
+
+#contact {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  color: #F2F2F2;
+  background-color: #685857;
+  height: 80vh;
 }
 
 .contact-links a {
@@ -86,7 +95,7 @@ footer {
   justify-content: space-evenly;
   align-items: center;
   color: #F2F2F2;
-  background-color: #685857;
+  background-color: #888C07;
   height: 50px;
 }
 
